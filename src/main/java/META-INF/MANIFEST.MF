@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /home/alexis/Learn/lwjgl/jar/lwjgl.jar
+Main-Class: com.zinibu.games.silly.HelloWorld
+
